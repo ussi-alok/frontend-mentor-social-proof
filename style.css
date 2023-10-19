@@ -118,14 +118,16 @@ h2{
     position:absolute;
     left:30%;
     top:20%;
+    font-weight: 700;
 }
 .card1 .verified,
 .card2 .verified,
 .card3 .verified{
     position:absolute;
     left:30%;
-    top:30%;
+    top:28%;
     color: var(--clr-primary-soft-pink);
+    font-weight: 500;
 }
 /* .card1,.card2,.card3{
     padding:2rem;
